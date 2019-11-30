@@ -2,4 +2,4 @@
 
 questo é un sito con i controfiocchi amico 
 
-aggiorno il readme dal ramo apposito
+aggiornato il readme prima di fare il REBASE
